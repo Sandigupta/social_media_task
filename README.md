@@ -12,7 +12,7 @@ This project implements a **User Submission Form** and an **Admin Dashboard** us
    - Enter their social media handle.
    - Upload multiple images using a file input.
 2. Submits data to the MongoDB database when the "Submit" button is clicked.
-![User Submission Form Screenshot](../assesment_task/frontend/public/image/screencapture-localhost-3000-2025-01-18-12_25_55.png)
+![User Submission Form Screenshot](../social_media_task/frontend/public/image/screencapture-localhost-3000-2025-01-18-12_25_55.png)
 
 
 ### **Admin Dashboard**
@@ -22,7 +22,7 @@ This project implements a **User Submission Form** and an **Admin Dashboard** us
    - Social media handle.
    - Uploaded images as thumbnails or clickable links.
 3. Dynamically updates as new submissions are added.
-![Admin Dashboard Example](../assesment_task/frontend/public/image/screencapture-localhost-3000-dashboard-2025-01-18-12_28_24.png)
+![Admin Dashboard Example](../social_media_task/frontend/public/image/screencapture-localhost-3000-dashboard-2025-01-18-12_28_24.png)
 
 
 ---
