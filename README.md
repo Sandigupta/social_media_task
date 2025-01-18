@@ -1,4 +1,6 @@
-# User Submission Form with Admin Dashboard
+# Social Media Task Application
+---
+## User Submission Form with Admin Dashboard
 
 This project implements a **User Submission Form** and an **Admin Dashboard** using **React.js** for the frontend, **Node.js** for the backend, and **MongoDB** for data storage. The application allows users to submit their details and upload multiple images, while admins can view submitted data in a structured format.
 
@@ -24,7 +26,52 @@ This project implements a **User Submission Form** and an **Admin Dashboard** us
 3. Dynamically updates as new submissions are added.
 ![Admin Dashboard Example](../social_media_task/frontend/public/image/screencapture-localhost-3000-dashboard-2025-01-18-12_28_24.png)
 
+---
 
+## Application Links
+
+1. **Submit Form**
+   - **URL**: [Submit Form](https://social-media-task-eta.vercel.app/)
+   - **Description**: This interface allows users to fill out and submit their details for the social media task.
+
+2. **Dashboard**
+   - **URL**: [Dashboard](https://social-media-task-bz2njve18-sandiguptas-projects.vercel.app/dashboard)
+   - **Description**: This dashboard provides an overview of all submitted user details and includes management functionalities.
+
+---
+
+## Features
+
+### Submit Form
+- Intuitive and user-friendly form interface.
+- Real-time validation for accurate data entry.
+- Designed for seamless submission of user details.
+
+### Dashboard
+- Displays submitted user data in a tabular format.
+- Features sorting and filtering capabilities for efficient data management.
+- Admin-friendly design for easy navigation and usage.
+
+---
+
+## How to Use
+
+### 1. Submit Form
+   - Navigate to the [Submit Form](https://social-media-task-eta.vercel.app/).
+   - Enter the required details in the provided fields.
+   - Click the **Submit** button to save the details.
+
+### 2. Dashboard
+   - Open the [Dashboard](https://social-media-task-bz2njve18-sandiguptas-projects.vercel.app/dashboard).
+   - Review submitted user details in a structured table.
+---
+
+## Tech Stack
+
+- **Frontend**: React.js
+- **Backend**: Node.js (Express.js)
+- **Database**: MongoDB (or the database integrated for data storage)
+- **Deployment**: Vercel(frontend) render(backend)
 ---
 
 ## **Project Structure**
