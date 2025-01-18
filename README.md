@@ -60,8 +60,9 @@ This project implements a **User Submission Form** and an **Admin Dashboard** us
    - Create a `.env` file in the backend directory.
    - Add the following:
      ```env
-     PORT=5000
-     MONGO_URI=mongodb://localhost:27017/submissions
+    PORT=5001
+    MONGODB_URI=mongodb+srv://sanditech24:8XDopeuit8t85ofD@socialmedia.b5qq8.mongodb.net/socialMedia
+    UPLOAD_DIR=uploads
      ```
 4. **Start the backend server**:
    ```bash
