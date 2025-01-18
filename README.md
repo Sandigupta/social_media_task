@@ -59,11 +59,11 @@ This project implements a **User Submission Form** and an **Admin Dashboard** us
 3. **Set up environment variables**:
    - Create a `.env` file in the backend directory.
    - Add the following:
-     ```env
+   ```env
     PORT=5001
     MONGODB_URI=mongodb+srv://sanditech24:8XDopeuit8t85ofD@socialmedia.b5qq8.mongodb.net/socialMedia
     UPLOAD_DIR=uploads
-     ```
+   ```
 4. **Start the backend server**:
    ```bash
    npm start
